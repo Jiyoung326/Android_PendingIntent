@@ -7,12 +7,13 @@
 <img src="https://user-images.githubusercontent.com/37690467/104335363-a765e580-5536-11eb-82fb-f85669409cac.jpg" width="20%"></img>
 <img src="https://user-images.githubusercontent.com/37690467/104334622-ee9fa680-5535-11eb-9b8d-0a082a6a5af1.png" width="20%" ></img>
 </div>
+<br>
 <div float:left>
 <p>show subactivity2 버튼을 누를 경우</p>
 <img src="https://user-images.githubusercontent.com/37690467/104335344-a5038b80-5536-11eb-91ad-6109d0f77a86.jpg" width="20%"></img>
 <img src="https://user-images.githubusercontent.com/37690467/104334627-ef383d00-5535-11eb-87aa-ac2e6c60c630.png" width="20%"></img>
 </div>
-
+<br>
 <div float:left>
 <p>Button을 누를 경우</p>
 <img src="https://user-images.githubusercontent.com/37690467/104335355-a6cd4f00-5536-11eb-94ad-f7ffbdc55acc.jpg" width="20%" ></img>
